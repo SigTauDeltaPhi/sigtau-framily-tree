@@ -168,13 +168,6 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "X",
-        "big": "Joe Walsh",
-        "pledgeclass": "Beta-Fall 90",
-        "graduated": true,
-        "inactive": true
-    },
-    {
         "name": "Rob Comeau",
         "big": "Phil Cetrino",
         "pledgeclass": "Beta-Fall 90",
@@ -212,13 +205,6 @@ var brothers = [
     {
         "name": "Thad Yukna",
         "big": "Dave Angelli",
-        "pledgeclass": "Gamma-Spring 91",
-        "graduated": true,
-        "inactive": true
-    },
-    {
-        "name": "X",
-        "big": "Erik Lagoy",
         "pledgeclass": "Gamma-Spring 91",
         "graduated": true,
         "inactive": true
@@ -399,8 +385,8 @@ var brothers = [
     },
     {
         "name": "Joe Viola",
+        "big": "Jeff Stephens",
         "pledgeclass": "Zeta-Fall 92",
-        "familystarted": "Jeff \"Keg\" Stephens",
         "graduated": true,
         "inactive": true
     },
@@ -1254,13 +1240,6 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "X",
-        "big": "Christopher Pylypink",
-        "pledgeclass": "Alpha Upsilon-Spring 12",
-        "graduated": true,
-        "inactive": true
-    },
-    {
         "name": "Steve Carosello",
         "big": "Billy Bird",
         "pledgeclass": "Alpha Upsilon-Spring 12",
@@ -1268,22 +1247,8 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "X",
-        "big": "Michael Waterhouse",
-        "pledgeclass": "Alpha Upsilon-Spring 12",
-        "graduated": true,
-        "inactive": true
-    },
-    {
         "name": "Manny Alers",
         "big": "Jonathon Pasquale",
-        "pledgeclass": "Alpha Upsilon-Spring 12",
-        "graduated": true,
-        "inactive": true
-    },
-    {
-        "name": "X",
-        "big": "Matthew Siciliano",
         "pledgeclass": "Alpha Upsilon-Spring 12",
         "graduated": true,
         "inactive": true
@@ -1361,13 +1326,6 @@ var brothers = [
     {
         "name": "Joseph “Smiley” Pacenka",
         "big": "Andrew Mirageas",
-        "pledgeclass": "Alpha Psi-Fall 13",
-        "graduated": true,
-        "inactive": true
-    },
-    {
-        "name": "X",
-        "big": "Anthony Szymczak",
         "pledgeclass": "Alpha Psi-Fall 13",
         "graduated": true,
         "inactive": true
@@ -1628,13 +1586,6 @@ var brothers = [
         "name": "Ben Torrence",
         "big": "Skyler Saddow",
         "pledgeclass": "Beta Delta-Fall 16",
-        "graduated": true,
-        "inactive": true
-    },
-    {
-        "name": "X",
-        "big": "Alexander Cochran",
-        "pledgeclass": "Beta Epsilon-Spring 17",
         "graduated": true,
         "inactive": true
     },
