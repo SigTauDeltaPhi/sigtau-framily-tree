@@ -1073,16 +1073,22 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "Transfer",
-        "familystarted": "Transfer"
+        "name": "Colleges",
+        "familystarted": "Transfer",
+        "graduated": true,
+        "inactive": true
     },
     {
         "name": "Transfer Amherst ",
-        "big": "Transfer"
+        "big": "Colleges",
+        "graduated": true,
+        "inactive": true
     },
     {
         "name": "Transfer PA",
-        "big": "Transfer"
+        "big": "Colleges",
+        "graduated": true,
+        "inactive": true
     },
     {
         "name": "Guilherme Barroso",
@@ -1100,7 +1106,7 @@ var brothers = [
     },
     {
         "name": "Mark Deleon",
-        "big": "Transfer",
+        "big": "Colleges",
         "pledgeclass": "Alpha Omicron-Fall 09",
         "graduated": true,
         "inactive": true
@@ -1843,12 +1849,14 @@ var brothers = [
     {
         "name": "Conlon Hickey",
         "big": "Michael Giovanella",
-        "pledgeclass": "Beta Mu-Fall 20"
+        "pledgeclass": "Beta Mu-Fall 20",
+        "inactive": true
     },
     {
         "name": "Samuel Afonso",
         "big": "Joseph Dinsmore",
-        "pledgeclass": "Beta Nu-Spring 21"
+        "pledgeclass": "Beta Nu-Spring 21",
+        "inactive": true
     },
     {
         "name": "Cameron Lalonde",
