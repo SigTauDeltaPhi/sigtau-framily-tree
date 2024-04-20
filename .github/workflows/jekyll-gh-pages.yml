@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://sigtaudeltaphi.github.io/sigtau-framily-tree/
     runs-on: ubuntu-latest
     needs: build
     steps:
