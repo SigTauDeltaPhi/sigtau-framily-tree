@@ -412,13 +412,6 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "X",
-        "big": "Sal Vassallo",
-        "pledgeclass": "Zeta-Fall 92",
-        "graduated": true,
-        "inactive": true
-    },
-    {
         "name": "Paul Desmond",
         "big": "Joe Walsh",
         "pledgeclass": "Zeta-Fall 92",
@@ -1857,7 +1850,7 @@ var brothers = [
     },
     {
         "name": "Jeff Stephens",
-        "big": "Transfer from PA-",
+        "pledgeclass": "Beta Iota- Fall 18",
         "familystarted": "Jeff Stephens [Transfer from PA]",
         "graduated": true,
         "inactive": true
