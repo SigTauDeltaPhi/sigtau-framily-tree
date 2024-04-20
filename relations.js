@@ -1073,8 +1073,21 @@ var brothers = [
         "inactive": true
     },
     {
+        "name": "Transfer",
+        "familystarted": "Transfer"
+    },
+    {
+        "name": "Transfer Amherst ",
+        "big": "Transfer"
+    },
+    {
+        "name": "Transfer PA",
+        "big": "Transfer"
+    },
+    {
         "name": "Guilherme Barroso",
-        "pledgeclass": "Transfer / Umass Amherst-",
+        "big": "Transfer Amherst ",
+        "pledgeclass": "Transfer / Umass Amherst",
         "graduated": true,
         "inactive": true
     },
@@ -1087,8 +1100,8 @@ var brothers = [
     },
     {
         "name": "Mark Deleon",
+        "big": "Transfer",
         "pledgeclass": "Alpha Omicron-Fall 09",
-        "familystarted": "Mark Deleon [Transfer]",
         "graduated": true,
         "inactive": true
     },
@@ -1801,8 +1814,8 @@ var brothers = [
     },
     {
         "name": "Jeff Stephens",
+        "big": "Transfer PA",
         "pledgeclass": "Beta Iota- Fall 18",
-        "familystarted": "Jeff Stephens [Transfer from PA]",
         "graduated": true,
         "inactive": true
     },
