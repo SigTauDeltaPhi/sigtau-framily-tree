@@ -1,8 +1,8 @@
 name: CI
 
 on:
-  - push
-  - pull_request
+  push:
+  pull_request: []
 
 jobs:
   test:
@@ -21,17 +21,21 @@ jobs:
           - ubuntu-latest
           - macos-latest
           - windows-latest
+
     steps:
       - uses: actions/checkout@v2
+
       - uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Clear npm cache
-        run: npm cache clean --force
+
       - run: npm install
+
       - run: npm run test
+
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v4.0.1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: SigTauDeltaPhi/sigtau-framily-tree
+          slug: SigTauDeltaPhi/framily-tree-sigtau
+          fail_ci_if_error: true
