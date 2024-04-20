@@ -1,7 +1,9 @@
 name: CI
+
 on:
   - push
   - pull_request
+
 jobs:
   test:
     name: Node.js ${{ matrix.node-version }} on ${{ matrix.os }}
@@ -26,6 +28,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm install
       - run: npm run test
-      - uses: codecov/codecov-action@v2
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v4.0.1
         with:
-          fail_ci_if_error: true
+          token: ${{ secrets.CODECOV_TOKEN }}
+          slug: SigTauDeltaPhi/sigtau-framily-tree
