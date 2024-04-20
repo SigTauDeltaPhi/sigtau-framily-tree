@@ -3,7 +3,7 @@
 [![GitHub Actions][Actions badge]][GitHub Workflow]
 [![Try online](https://img.shields.io/badge/try_it-online!-yellow.svg?style=flat-square)][GitHub Pages]
 
-Check it out [online][GitHub Pages].
+Check it out 
 
 ## What is this?
 
