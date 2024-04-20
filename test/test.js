@@ -7,4 +7,3 @@ describe('framily-tree', function () {
     main.createNodes();
   });
 });
-
