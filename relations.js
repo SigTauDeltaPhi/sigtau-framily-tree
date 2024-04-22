@@ -20,84 +20,84 @@ var brothers = [
     {
         "name": "John Mutashio\n\"Stash\"\nFF Fall 89\nRoll # :1",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "John Mutashio",
+        "familystarted": "John Mutashio\n\"Stash\"\nFF Fall 89\nRoll # :1",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Tom Clarke\n\"C3PO\"\nFF Fall 89\nRoll # :2",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Tom Clarke",
+        "familystarted": "Tom Clarke\n\"C3PO\"\nFF Fall 89\nRoll # :2",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Mark Belluche\n\"Hitman\"\nFF Fall 89\nRoll # :3",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Mark Belluche",
+        "familystarted": "Mark Belluche\n\"Hitman\"\nFF Fall 89\nRoll # :3",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Michael Dion\n\"Dion\"\nFF Fall 89\nRoll # :4",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Michael Dion",
+        "familystarted": "Michael Dion\n\"Dion\"\nFF Fall 89\nRoll # :4",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Ron Vallee\n\"Bart\"\nFF Fall 89\nRoll # :5",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Ron Vallee",
+        "familystarted": "Ron Vallee\n\"Bart\"\nFF Fall 89\nRoll # :5",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Jamie Buckley\n\"Buck\"\nFF Fall 89\nRoll # :6",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Jamie Buckley",
+        "familystarted": "Jamie Buckley\n\"Buck\"\nFF Fall 89\nRoll # :6",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Mike Lafrance\n\"Butta\"\nFF Fall 89\nRoll # :8",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Mike Lafrance",
+        "familystarted": "Mike Lafrance\n\"Butta\"\nFF Fall 89\nRoll # :8",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Erik Lagoy\n\"HooRah\"\nFF Fall 89\nRoll # :9",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Erik Lagoy",
+        "familystarted": "Erik Lagoy\n\"HooRah\"\nFF Fall 89\nRoll # :9",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "David MacElhiney\n\"GOV\"\nFF Fall 89\nRoll # :10",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "David MacElhiney",
+        "familystarted": "David MacElhiney\n\"GOV\"\nFF Fall 89\nRoll # :10",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Ken McCue\n\"KenDog\"\nFF Fall 89\nRoll # :11",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Ken McCue",
+        "familystarted": "Ken McCue\n\"KenDog\"\nFF Fall 89\nRoll # :11",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Sean Riley\n\"Delacey/Beatle(Bailey)\"\nFF Fall 89\nRoll # :12",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Sean Riley",
+        "familystarted": "Sean Riley\n\"Delacey/Beatle(Bailey)\"\nFF Fall 89\nRoll # :12",
         "graduated": true,
         "inactive": true
     },
     {
         "name": "Scott Rosenhahn\n\"Dad\"\nFF Fall 89\nRoll # :13",
         "pledgeclass": "FF-Fall 89",
-        "familystarted": "Scott Rosenhahn",
+        "familystarted": "Scott Rosenhahn\n\"Dad\"\nFF Fall 89\nRoll # :13",
         "graduated": true,
         "inactive": true
     },
@@ -1931,6 +1931,26 @@ var brothers = [
         "name": "Robert Aurilio\n\"Optimus\"\nBeta Sigma Fall 23\nRoll # :293",
         "big": "Jonathon Pack\n\"Archimedes\"\nBeta Xi Fall 21\nRoll # :282",
         "pledgeclass": "Beta Sigma-Fall 23"
+    },
+    {
+        "name": "Pledge Third String",
+        "big": "Robert Aurilio\n\"Optimus\"\nBeta Sigma Fall 23\nRoll # :293",
+        "pledgeclass": "Beta Tau-Spring 24"
+    },
+    {
+        "name": "Pledge Swiss Cheese",
+        "big": "Jonathon Pack\n\"Archimedes\"\nBeta Xi Fall 21\nRoll # :282",
+        "pledgeclass": "Beta Tau-Spring 24"
+    },
+    {
+        "name": "Pledge Shrimp Dick",
+        "big": "Martin O'Flaherty\n\"Chulainn\"\nBeta Rho Fall 23\nRoll # :292",
+        "pledgeclass": "Beta Tau-Spring 24"
+    },
+    {
+        "name": "Pledge Cleveland Brown jr",
+        "big": "Justin Gilroy\n\"Ajax\"\nBeta Xi Fall 21\nRoll # :286",
+        "pledgeclass": "Beta Tau-Spring 24"
     }
 ];
 if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
