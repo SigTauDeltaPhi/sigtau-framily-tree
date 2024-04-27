@@ -1943,7 +1943,7 @@ var brothers = [
         "pledgeclass": "Beta Tau-Spring 24"
     },
     {
-        "name": "Josiah Hulton\n\"Virgil\"\nBeta Tau Spring 24\nRoll # :296",
+        "name": "Josiah Hilton\n\"Virgil\"\nBeta Tau Spring 24\nRoll # :296",
         "big": "Martin O'Flaherty\n\"Chulainn\"\nBeta Rho Fall 23\nRoll # :292",
         "pledgeclass": "Beta Tau-Spring 24"
     },
