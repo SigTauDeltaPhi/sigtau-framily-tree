@@ -1909,7 +1909,7 @@ var brothers = [
         "inactive": true
     },
     {
-        "name": "Sean Rameriez\n\"All Might\"\nBeta Xi Fall 21\nRoll # :290",
+        "name": "Sean Ramirez\n\"All Might\"\nBeta Xi Fall 21\nRoll # :290",
         "big": "Joseph Afflitto\n\"Hunter\"\nBeta Kappa Fall 19\nRoll # :272",
         "pledgeclass": "Beta Xi-Fall 21",
         "graduated": true,
@@ -1933,22 +1933,22 @@ var brothers = [
         "pledgeclass": "Beta Sigma-Fall 23"
     },
     {
-        "name": "Pledge Third String",
+        "name": "Kyle McGraff\n\"Muad'dib\"\nBeta Tau Spring 24\nRoll # :294",
         "big": "Robert Aurilio\n\"Optimus\"\nBeta Sigma Fall 23\nRoll # :293",
         "pledgeclass": "Beta Tau-Spring 24"
     },
     {
-        "name": "Pledge Swiss Cheese",
+        "name": "Brady Dufour\n\"Helios\"\nBeta Tau Spring 24\nRoll # :295",
         "big": "Jonathon Pack\n\"Archimedes\"\nBeta Xi Fall 21\nRoll # :282",
         "pledgeclass": "Beta Tau-Spring 24"
     },
     {
-        "name": "Pledge Shrimp Dick",
+        "name": "Josiah Hulton\n\"Virgil\"\nBeta Tau Spring 24\nRoll # :296",
         "big": "Martin O'Flaherty\n\"Chulainn\"\nBeta Rho Fall 23\nRoll # :292",
         "pledgeclass": "Beta Tau-Spring 24"
     },
     {
-        "name": "Pledge Cleveland Brown jr",
+        "name": "Micheal Smith\r\n\"Apollo\"\r\nBeta Tau Spring 24\r\nRoll # :297",
         "big": "Justin Gilroy\n\"Ajax\"\nBeta Xi Fall 21\nRoll # :286",
         "pledgeclass": "Beta Tau-Spring 24"
     }
