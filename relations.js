@@ -1849,13 +1849,13 @@ var brothers = [
     {
         "name": "Conlon Hickey\n\"Odyssey\"\nBeta Mu Fall 20\nRoll # :279",
         "big": "Michael Giovanella\n\"Blitz\"\nBeta Theta Fall 18\nRoll # :267",
-        "pledgeclass": "Beta Mu-Fall 20",
-        "inactive": true
+        "pledgeclass": "Beta Mu-Fall 20"
     },
     {
         "name": "Samuel Afonso\n\"NOS\"\nBeta Nu Spring 21\nRoll # :280",
         "big": "Joseph Dinsmore\n\"Kai\"\nBeta Theta Fall 18\nRoll # :264",
         "pledgeclass": "Beta Nu-Spring 21",
+        "graduated": true,
         "inactive": true
     },
     {
@@ -1868,7 +1868,9 @@ var brothers = [
     {
         "name": "Jonathon Pack\n\"Archimedes\"\nBeta Xi Fall 21\nRoll # :282",
         "big": "Ronald DeSilva\n\"Lone Wanderer\"\nBeta Theta Fall 18\nRoll # :263",
-        "pledgeclass": "Beta Xi-Fall 21"
+        "pledgeclass": "Beta Xi-Fall 21",
+        "graduated": true,
+        "inactive": true
     },
     {
         "name": "Lucas Boudreau\n\"Holmes\"\nBeta Xi Fall 21\nRoll # :283",
@@ -1885,7 +1887,9 @@ var brothers = [
     {
         "name": "Justin Gilroy\n\"Ajax\"\nBeta Xi Fall 21\nRoll # :286",
         "big": "Conlon Hickey\n\"Odyssey\"\nBeta Mu Fall 20\nRoll # :279",
-        "pledgeclass": "Beta Xi-Fall 21"
+        "pledgeclass": "Beta Xi-Fall 21",
+        "graduated": true,
+        "inactive": true
     },
     {
         "name": "Michael Goddard\n\"Atlas\"\nBeta Xi Fall 21\nRoll # :287",
@@ -1905,8 +1909,7 @@ var brothers = [
         "name": "Soren Nelson\n\"Kino\"\nBeta Xi Fall 21\nRoll # :289",
         "big": "Ian Bakalars\n\"Frequency\"\nBeta Theta Fall 18\nRoll # :261",
         "pledgeclass": "Beta Xi-Fall 21",
-        "graduated": true,
-        "inactive": true
+        "graduated": true
     },
     {
         "name": "Sean Ramirez\n\"All Might\"\nBeta Xi Fall 21\nRoll # :290",
@@ -1933,7 +1936,7 @@ var brothers = [
         "pledgeclass": "Beta Sigma-Fall 23"
     },
     {
-        "name": "Kyle McGraff\n\"Muad'dib\"\nBeta Tau Spring 24\nRoll # :294",
+        "name": "Kyle McGrath\n\"Muad'dib\"\nBeta Tau Spring 24\nRoll # :294",
         "big": "Robert Aurilio\n\"Optimus\"\nBeta Sigma Fall 23\nRoll # :293",
         "pledgeclass": "Beta Tau-Spring 24"
     },
@@ -1948,10 +1951,10 @@ var brothers = [
         "pledgeclass": "Beta Tau-Spring 24"
     },
     {
-        "name": "Micheal Smith\r\n\"Apollo\"\r\nBeta Tau Spring 24\r\nRoll # :297",
+        "name": "Micheal Smith\n\"Apollo\"\nBeta Tau Spring 24\nRoll # :297",
         "big": "Justin Gilroy\n\"Ajax\"\nBeta Xi Fall 21\nRoll # :286",
         "pledgeclass": "Beta Tau-Spring 24"
-    }
+    },
 ];
 if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
   module.exports = brothers;
